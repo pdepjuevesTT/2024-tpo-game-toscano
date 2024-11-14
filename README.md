@@ -1,22 +1,26 @@
-# Nombre del juego (<- borrar y completar)
+# El Juego Del Diego 
+
+Sos le Diegote y tenes que meter un Zurdazo Maradoniano para meter gol y pasar de nivel hasta consagrarte campeon del mundo.
 
 ## Equipo de desarrollo
 
-- Alguien
-- Persona
-- etc.
+- Santino Rondini
+- Eitan Fiszer
+- Guido Bassi
+- Thiago Molina
+- Felipe Vancevic
+
+
 
 ## Capturas
 
-(agregar)
+![cap1]()
+![cap2]()
+![cap3]()
 
-## Reglas de Juego / Instrucciones
+## Controles
 
-(Escribirlas)
+Flechas : ← , → , ↑ , ↓
+Patear Pelota : P
 
 
-## Otros
-
-- Curso/Facultad
-- Versión de wollok
-- Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
